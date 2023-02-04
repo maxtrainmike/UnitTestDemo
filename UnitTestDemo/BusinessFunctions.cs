@@ -57,7 +57,7 @@ namespace UnitTestDemo
             //// Need Microsoft.Data.SqlClient
             //Dictionary<string,string> stateList= new Dictionary<string,string>();
 
-            //string conString = "Server=tcp:dbserver20778.database.windows.net,1433;Initial Catalog=StateList;User ID=maxstudent;Password=Train@MAX2022";
+            //string conString = "";
             //string sqlCommand = "SELECT StateCode,StateName FROM States";
 
             //using (SqlConnection conn = new SqlConnection(conString))
